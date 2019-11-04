@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Linia pierwsza");
         System.out.println("Linia druga");
         System.out.println("Linia trzecia");
+        System.out.println("Linia czwarta");
     }
 }
